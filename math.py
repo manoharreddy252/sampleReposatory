@@ -7,4 +7,8 @@ def subtraction(x,y):
 def multiply(x,y):
     return x*y
 
-print(multiply(2,3))
+
+def devide(x,y):
+    return y/x
+
+print(devide(2,3))
